@@ -1,8 +1,10 @@
 # Cookie-Clicker-Cheater
 Yet another Cookie Clicker cheater
+
 [=== Hey, Orteil here. Cheated cookies taste awful... or do they? ===]
 
 This is a simple javascript that allows you to automatically buy, click, etc... into the game.
+
 You just need to copy its content and paste into the console, and send.
 
 ## extra commands
